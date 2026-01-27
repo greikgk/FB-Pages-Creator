@@ -35,7 +35,7 @@ Modify the parameters in the script to suit your needs:
 Run the script using the following command:
 
 ```bash
-python creator.py
+python main.py
 
 ```
 
@@ -43,7 +43,7 @@ python creator.py
 
 ```text
 Success Create Page!
-Page Name  : YourCustomName
+Page Name  : BoyFifteen
 Page ID    : 1000xxxxxxxxx
 Profile ID : 1000xxxxxxxxx
 

